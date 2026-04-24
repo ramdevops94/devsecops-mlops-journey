@@ -1,3 +1,4 @@
 Learning Git step by step
 Second line added
 Working in feature branch
+This line is from conflict branch
