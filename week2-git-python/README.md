@@ -16,4 +16,10 @@
 - Understood conflict markers
 - Resolved manually
 
+## Day 4 - Python Basics
+
+- Created Python scripts
+- Learned input, conditions, loops
+- Built log reader for nginx logs
+
 
