@@ -1,4 +1,4 @@
 Learning Git step by step
 Second line added
 Working in feature branch
-This line is from main branch
+This line is resolved between main and conflict branch
