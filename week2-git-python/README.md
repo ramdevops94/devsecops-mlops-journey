@@ -9,3 +9,11 @@
 - Made changes in isolated branch
 - Merged branch into main
 - Understood branch workflow
+
+## Day 3 - Merge Conflicts
+
+- Created conflict scenario
+- Understood conflict markers
+- Resolved manually
+
+
