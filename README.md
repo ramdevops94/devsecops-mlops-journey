@@ -26,8 +26,3 @@ This project demonstrates:
 ## Output
 - Web server running on localhost
 - Logs monitored in real-time
-
-## Week 2 - Day 1
-
-- Practiced git add, commit, push
-- Learned git diff and git log
