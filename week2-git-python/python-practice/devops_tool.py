@@ -1,7 +1,7 @@
 import requests
 import os
 
-print("===== DEVOPS AUTOMATION TOOL =====\n")
+print("\n===== DEVOPS AUTOMATION TOOL =====\n")
 
 # 1. Check Nginx Status
 print("\n🔹 Checking Nginx Status...")

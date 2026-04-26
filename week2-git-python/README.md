@@ -1,41 +1,31 @@
-## Week 2 - Day 1
 
-- Practiced git add, commit, push
-- Learned git diff and git log
+# Week 2 - Git + Python Automation
 
-## Day 2 - Branching & Merging
+## Overview
+This module focuses on:
+- Git workflows (branching, merging, PR)
+- Python scripting
+- API integration
+- Automation tools
 
-- Created feature branch
-- Made changes in isolated branch
-- Merged branch into main
-- Understood branch workflow
+## Key Features
+- Git version control with branching strategy
+- Python scripts for automation
+- API calls using requests
+- DevOps automation tool:
+  - Checks nginx status
+  - Reads logs
+  - Calls external API
 
-## Day 3 - Merge Conflicts
+## Technologies Used
+- Git
+- Python 3
+- requests library
+- Linux commands
 
-- Created conflict scenario
-- Understood conflict markers
-- Resolved manually
+## How to Run
 
-## Day 4 - Python Basics
-
-- Created Python scripts
-- Learned input, conditions, loops
-- Built log reader for nginx logs
-
-## Day 5 - Python API Calls
-
-- Set up virtual environment
-- Installed requests module
-- Created API scripts
-- Called GitHub API
-- Combined system + API automation
-
-## Day 6 - Python Automation Tool
-
-- Built DevOps automation script
-- Checked nginx status
-- Read logs using Python
-- Integrated API call
-- Combined Linux + Python
-
-
+```bash
+source venv/bin/activate
+cd python-practice
+python devops_tool.py
