@@ -19,4 +19,11 @@
 - Ran multiple nginx containers
 - Understood container isolation
 
+## Day 5 - Docker Compose
+
+- Created docker-compose.yml
+- Defined services using YAML
+- Ran containers using docker compose
+- Managed multi-container setup easily
+
 

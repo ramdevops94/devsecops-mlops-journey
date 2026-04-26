@@ -1,0 +1,13 @@
+
+version: "3"
+
+services:
+  web1:
+    image: nginx
+    ports:
+      - "8087:80"
+
+  web2:
+    image: nginx
+    ports:
+      - "8088:80"
