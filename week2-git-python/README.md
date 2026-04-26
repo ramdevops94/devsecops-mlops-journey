@@ -22,4 +22,10 @@
 - Learned input, conditions, loops
 - Built log reader for nginx logs
 
+## Day 5 - Python API Calls
 
+- Set up virtual environment
+- Installed requests module
+- Created API scripts
+- Called GitHub API
+- Combined system + API automation
