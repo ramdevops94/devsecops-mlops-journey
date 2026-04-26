@@ -29,3 +29,13 @@
 - Created API scripts
 - Called GitHub API
 - Combined system + API automation
+
+## Day 6 - Python Automation Tool
+
+- Built DevOps automation script
+- Checked nginx status
+- Read logs using Python
+- Integrated API call
+- Combined Linux + Python
+
+
