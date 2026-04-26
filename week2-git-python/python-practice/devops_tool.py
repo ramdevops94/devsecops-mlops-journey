@@ -1,25 +1,13 @@
+
 import requests
-import os
 
-print("\n===== DEVOPS AUTOMATION TOOL =====\n")
+print("===== DEVOPS TOOL (CONTAINERIZED) =====")
 
-# 1. Check Nginx Status
-print("\n🔹 Checking Nginx Status...")
-status = os.popen("systemctl is-active nginx").read().strip()
-
-if status == "active":
-    print("✅ Nginx is running")
-else:
-    print("❌ Nginx is not running")
-
-# 2. Show Last Logs
-print("\n🔹 Last 5 Nginx Logs:")
-os.system("tail -n 5 /var/log/nginx/access.log")
-
-# 3. API Call
-print("\n🔹 GitHub API Status:")
 response = requests.get("https://api.github.com")
 
-print("Status Code:", response.status_code)
+if response.status_code == 200:
+    print("✅ GitHub API reachable")
+else:
+    print("❌ API issue")
 
-print("\n===== DONE =====")
+print("===== DONE =====")

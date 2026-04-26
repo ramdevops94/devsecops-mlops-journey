@@ -26,4 +26,11 @@
 - Ran containers using docker compose
 - Managed multi-container setup easily
 
+## Day 6 - Dockerizing Python Tool
+
+- Converted Python script to container-friendly version
+- Created optimized Dockerfile
+- Built and ran containerized app
+- Understood container isolation
+
 
