@@ -12,3 +12,11 @@
 - Mounted volume to container
 - Verified data persistence after container deletion
 
+## Day 4 - Bind Mounts & Multi-Container
+
+- Used bind mounts for live file updates
+- Verified real-time changes in browser
+- Ran multiple nginx containers
+- Understood container isolation
+
+
